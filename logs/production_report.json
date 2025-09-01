@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-09-01T10:55:36.060948",
+  "deployment_status": "running",
+  "data_statistics": {
+    "data/silver/sephora_summary.json": {
+      "generation_timestamp": "2025-08-31T20:21:50.983823",
+      "total_products": 2000,
+      "total_reviews": 53914,
+      "luxury_products": 1765,
+      "refillable_products": 369,
+      "french_reviews": 53914,
+      "unique_brands": 40,
+      "categories": {
+        "fragrance": 660,
+        "skincare": 669,
+        "makeup": 671
+      },
+      "avg_price": 272.94,
+      "avg_rating": 4.24
+    },
+    "data/silver/eda_summary.json": {
+      "analysis_timestamp": "2025-08-31T20:22:29.987868",
+      "total_products": 2000,
+      "total_reviews": 53914,
+      "luxury_products": 1765,
+      "refillable_products": 369,
+      "french_reviews": 53914,
+      "unique_brands": 40,
+      "unique_sites": 1,
+      "luxury_brands": 40,
+      "categories_analyzed": 3
+    }
+  },
+  "analysis_status": "completed"
+}

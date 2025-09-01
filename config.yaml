@@ -1,0 +1,123 @@
+# Luxury Beauty Scraping Pipeline Configuration
+
+# Crawling Settings
+crawling:
+  concurrency_per_site: 1
+  rate_limit_rps: 0.5
+  default_delay_seconds: 2.0
+  max_retries: 3
+  timeout_seconds: 60
+  strict_compliance: true
+  random_jitter_ms: [250, 750]
+
+# User Agents (research attribution)
+user_agents:
+  - "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 [Research: French Luxury Beauty Analysis]"
+  - "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 [Research: French Luxury Beauty Analysis]"
+
+# Language Settings
+language:
+  preferred: "fr"
+  fallback: "en"
+  min_french_ratio: 0.8
+
+# Data Storage
+storage:
+  bronze_dir: "data/bronze"
+  silver_dir: "data/silver"
+  raw_dir: "data/raw"
+  reference_dir: "data/reference"
+  failures_dir: "data/raw/failures"
+
+# Reference Files
+reference:
+  brands_tiers_file: "data/reference/brands_tiers.json"
+  categories_map_file: "data/reference/categories_map.json"
+  robots_dir: "data/reference/robots"
+
+# Price Backstop Settings
+price_backstop:
+  luxury_percentile: 75
+  category_filters:
+    fragrance_edp_edt:
+      size_range: [50, 100]
+      unit: "ml"
+    skincare_moisturizer:
+      size_range: [30, 60]
+      unit: "ml"
+    skincare_serum:
+      size_range: [30, 30]
+      unit: "ml"
+    makeup_lipstick:
+      size_range: [3, 5]
+      unit: "g"
+
+# Refillable Detection
+refillable:
+  keywords:
+    french:
+      - "recharge"
+      - "rechargeable"
+      - "recharge/refill"
+      - "refillable"
+      - "recharge vendu séparément"
+    english:
+      - "refill"
+      - "refillable"
+      - "rechargeable"
+      - "refill sold separately"
+
+# Site-Specific Settings
+sites:
+  sephora:
+    domain: "sephora.fr"
+    base_url: "https://www.sephora.fr"
+    category_urls:
+      - "https://www.sephora.fr/parfums"
+      - "https://www.sephora.fr/soins-visage"
+      - "https://www.sephora.fr/maquillage"
+    refillable_facet: "rechargeable"
+    
+  marionnaud:
+    domain: "marionnaud.fr"
+    base_url: "https://www.marionnaud.fr"
+    category_urls:
+      - "https://www.marionnaud.fr/parfums"
+      - "https://www.marionnaud.fr/soins"
+      - "https://www.marionnaud.fr/maquillage"
+      
+  nocibe:
+    domain: "nocibe.fr"
+    base_url: "https://www.nocibe.fr"
+    category_urls:
+      - "https://www.nocibe.fr/parfums"
+      - "https://www.nocibe.fr/soins"
+      - "https://www.nocibe.fr/maquillage"
+
+# Validation Settings
+validation:
+  min_products_with_ratings: 0.9
+  min_products_with_required_fields: 0.95
+  min_french_reviews_ratio: 0.8
+  refillable_evidence_required: true
+
+# Open Beauty Facts Enrichment
+open_beauty_facts:
+  enabled: true
+  base_url: "https://world.openbeautyfacts.org/api/v0"
+  rate_limit_rps: 0.5
+  timeout_seconds: 10
+
+# Logging
+logging:
+  level: "INFO"
+  format: "json"
+  file_rotation:
+    max_size_mb: 100
+    backup_count: 5
+
+# Testing
+testing:
+  dry_run_max_pages: 1000
+  dry_run_max_products: 10000
+  dry_run_max_reviews: 100000

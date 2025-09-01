@@ -1,0 +1,4 @@
+site,cat,count,mean_price,p25,p50,p75,p90
+sephora,fragrance,660,436.53,268.0,412.66,588.42,724.79
+sephora,skincare,669,254.01,140.21,247.39,349.81,445.36
+sephora,makeup,671,130.9,79.11,122.99,177.12,214.64

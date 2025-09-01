@@ -1,0 +1,3 @@
+cluster,product_count,avg_price,price_std,refill_rate,luxury_rate
+0,1501,-0.016,0.98,-0.026,-0.001
+1,499,0.05,1.058,0.077,0.004

@@ -1,0 +1,41 @@
+status,product_id,brand,name,price_value,price_currency,brand_tier,category_path,classification_reason
+kept,penhaligon's-skincare-0006,Penhaligon's,Penhaligon's Crème Contour des Yeux,559.67,EUR,1,['skincare' 'cleanser'],Brand tier 1 + price threshold met
+kept,givenchy-skincare-0008,Givenchy,Givenchy Crème Hydratante,391.53,EUR,1,['skincare' 'moisturizer'],Brand tier 1 + price threshold met
+kept,atelier-cologne-skincare-0014,Atelier Cologne,Atelier Cologne Crème Hydratante,484.93,EUR,1,['skincare' 'mask'],Brand tier 1 + price threshold met
+kept,maison-crivelli-skincare-0015,Maison Crivelli,Maison Crivelli Crème Contour des Yeux,360.55,EUR,1,['skincare' 'cleanser'],Brand tier 1 + price threshold met
+kept,parfums-de-marly-skincare-0016,Parfums de Marly,Parfums de Marly Nettoyant,355.97,EUR,1,['skincare' 'mask'],Brand tier 1 + price threshold met
+kept,bottega-veneta-fragrance-0026,Bottega Veneta,Bottega Veneta Eau Fraîche,828.3,EUR,1,['fragrance' 'edp'],Brand tier 1 + price threshold met
+kept,yves-saint-laurent-skincare-0030,Yves Saint Laurent,Yves Saint Laurent Crème Hydratante,491.37,EUR,1,['skincare' 'cleanser'],Brand tier 1 + price threshold met
+kept,hermès-fragrance-0038,Hermès,Hermès Eau de Parfum,596.67,EUR,1,['fragrance' 'edt'],Brand tier 1 + price threshold met
+kept,chanel-makeup-0039,Chanel,Chanel Blush,207.93,EUR,1,['makeup' 'eyeshadow'],Brand tier 1 + price threshold met
+kept,bottega-veneta-makeup-0041,Bottega Veneta,Bottega Veneta Fond de Teint,280.25,EUR,1,['makeup' 'mascara'],Brand tier 1 + price threshold met
+kept,maison-crivelli-skincare-0043,Maison Crivelli,Maison Crivelli Nettoyant,352.69,EUR,1,['skincare' 'moisturizer'],Brand tier 1 + price threshold met
+kept,etat-libre-d'orange-skincare-0046,Etat Libre d'Orange,Etat Libre d'Orange Crème Contour des Yeux,455.55,EUR,1,['skincare' 'serum'],Brand tier 1 + price threshold met
+kept,xerjoff-fragrance-0049,Xerjoff,Xerjoff Eau de Parfum,793.48,EUR,1,['fragrance' 'eau_fraiche'],Brand tier 1 + price threshold met
+kept,penhaligon's-makeup-0051,Penhaligon's,Penhaligon's Rouge à Lèvres,233.93,EUR,1,['makeup' 'blush'],Brand tier 1 + price threshold met
+kept,roja-parfums-makeup-0054,Roja Parfums,Roja Parfums Mascara,240.26,EUR,1,['makeup' 'blush'],Brand tier 1 + price threshold met
+kept,etat-libre-d'orange-fragrance-0055,Etat Libre d'Orange,Etat Libre d'Orange Extrait,914.19,EUR,1,['fragrance' 'parfum'],Brand tier 1 + price threshold met
+kept,atelier-cologne-makeup-0056,Atelier Cologne,Atelier Cologne Fond de Teint,182.84,EUR,1,['makeup' 'blush'],Brand tier 1 + price threshold met
+kept,parfums-de-marly-skincare-0059,Parfums de Marly,Parfums de Marly Nettoyant,552.77,EUR,1,['skincare' 'moisturizer'],Brand tier 1 + price threshold met
+kept,yves-saint-laurent-skincare-0060,Yves Saint Laurent,Yves Saint Laurent Crème Hydratante,350.72,EUR,1,['skincare' 'cleanser'],Brand tier 1 + price threshold met
+kept,xerjoff-fragrance-0069,Xerjoff,Xerjoff Eau de Parfum,689.31,EUR,1,['fragrance' 'edp'],Brand tier 1 + price threshold met
+dropped,maison-margiela-makeup-0000,Maison Margiela,Maison Margiela Rouge à Lèvres,45.23,EUR,1,['makeup' 'mascara'],Price below category threshold
+dropped,l'artisan-parfumeur-fragrance-0001,L'Artisan Parfumeur,L'Artisan Parfumeur Eau de Toilette,256.01,EUR,1,['fragrance' 'parfum'],Price below category threshold
+dropped,yves-saint-laurent-makeup-0002,Yves Saint Laurent,Yves Saint Laurent Mascara,125.49,EUR,1,['makeup' 'blush'],Price below category threshold
+dropped,by-kilian-fragrance-0003,By Kilian,By Kilian Eau de Parfum,275.2,EUR,1,['fragrance' 'parfum'],Price below category threshold
+dropped,parfums-christian-dior-fragrance-0004,Parfums Christian Dior,Parfums Christian Dior Cologne,294.5,EUR,1,['fragrance' 'parfum'],Price below category threshold
+dropped,jo-malone-london-makeup-0005,Jo Malone London,Jo Malone London Mascara,36.84,EUR,1,['makeup' 'eyeshadow'],Price below category threshold
+dropped,penhaligon's-skincare-0007,Penhaligon's,Penhaligon's Masque Hydratant,135.48,EUR,1,['skincare' 'moisturizer'],Price below category threshold
+dropped,boucheron-skincare-0009,Boucheron,Boucheron Crème Contour des Yeux,283.59,EUR,1,['skincare' 'serum'],Price below category threshold
+dropped,la-mer-skincare-0010,La Mer,La Mer Sérum Anti-âge,64.86,EUR,1,['skincare' 'cleanser'],Price below category threshold
+dropped,initio-parfums-fragrance-0011,Initio Parfums,Initio Parfums Eau de Parfum,434.31,EUR,1,['fragrance' 'edp'],Price below category threshold
+dropped,xerjoff-skincare-0012,Xerjoff,Xerjoff Crème Contour des Yeux,187.15,EUR,1,['skincare' 'cleanser'],Price below category threshold
+dropped,etat-libre-d'orange-fragrance-0013,Etat Libre d'Orange,Etat Libre d'Orange Eau de Toilette,461.22,EUR,1,['fragrance' 'parfum'],Price below category threshold
+dropped,la-mer-fragrance-0017,La Mer,La Mer Extrait,264.44,EUR,1,['fragrance' 'parfum'],Price below category threshold
+dropped,chanel-skincare-0018,Chanel,Chanel Masque Hydratant,207.75,EUR,1,['skincare' 'serum'],Price below category threshold
+dropped,nishane-skincare-0019,Nishane,Nishane Sérum Anti-âge,170.36,EUR,1,['skincare' 'mask'],Price below category threshold
+dropped,armani-beauty-skincare-0020,Armani Beauty,Armani Beauty Crème Contour des Yeux,89.77,EUR,1,['skincare' 'eye_cream'],Price below category threshold
+dropped,armani-beauty-makeup-0021,Armani Beauty,Armani Beauty Palette d'Ombre,49.36,EUR,1,['makeup' 'blush'],Price below category threshold
+dropped,guerlain-skincare-0022,Guerlain,Guerlain Crème Contour des Yeux,163.74,EUR,1,['skincare' 'mask'],Price below category threshold
+dropped,cartier-skincare-0023,Cartier,Cartier Masque Hydratant,236.07,EUR,1,['skincare' 'eye_cream'],Price below category threshold
+dropped,armani-beauty-skincare-0024,Armani Beauty,Armani Beauty Sérum Anti-âge,242.43,EUR,1,['skincare' 'eye_cream'],Price below category threshold

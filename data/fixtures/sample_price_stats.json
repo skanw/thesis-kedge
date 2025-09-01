@@ -1,0 +1,24 @@
+[
+  {
+    "site": "sephora",
+    "category": "fragrance_edp_edt",
+    "p25": 80.0,
+    "p50": 120.0,
+    "p75": 180.0,
+    "p90": 250.0,
+    "count": 150,
+    "currency": "EUR",
+    "computed_ts": "2025-08-31T19:24:43.766918"
+  },
+  {
+    "site": "sephora",
+    "category": "skincare_moisturizer",
+    "p25": 45.0,
+    "p50": 75.0,
+    "p75": 120.0,
+    "p90": 180.0,
+    "count": 200,
+    "currency": "EUR",
+    "computed_ts": "2025-08-31T19:24:43.766928"
+  }
+]

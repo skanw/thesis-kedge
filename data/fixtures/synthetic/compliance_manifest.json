@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-09-01T11:14:24.289564",
+  "data_collection_method": "web_scraping",
+  "compliance_status": "verified",
+  "sources": [
+    {
+      "domain": "marionnaud",
+      "compliance_verified": true,
+      "robots_txt_checked": true,
+      "rate_limit_respected": true
+    },
+    {
+      "domain": "nocibe",
+      "compliance_verified": true,
+      "robots_txt_checked": true,
+      "rate_limit_respected": true
+    }
+  ],
+  "robots_txt_respected": true,
+  "rate_limiting_applied": true,
+  "no_pii_collected": true,
+  "research_purpose": true,
+  "data_retention": "30_days_raw_90_days_processed"
+}

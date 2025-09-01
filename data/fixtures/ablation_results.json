@@ -1,0 +1,32 @@
+{
+  "k_2": {
+    "full_features": {
+      "silhouette": 0.28958767659404827,
+      "davies_bouldin": 1.7256217690439488
+    },
+    "reduced_features": {
+      "silhouette": 0.30888497083989996,
+      "davies_bouldin": 1.6400176226965135
+    }
+  },
+  "k_3": {
+    "full_features": {
+      "silhouette": 0.1421520716628761,
+      "davies_bouldin": 2.4399150021319898
+    },
+    "reduced_features": {
+      "silhouette": 0.10860408611973958,
+      "davies_bouldin": 2.554737060857454
+    }
+  },
+  "k_4": {
+    "full_features": {
+      "silhouette": 0.09625339786306865,
+      "davies_bouldin": 3.111963217191115
+    },
+    "reduced_features": {
+      "silhouette": 0.09151437092750805,
+      "davies_bouldin": 2.490896677247686
+    }
+  }
+}

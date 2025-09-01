@@ -1,0 +1,217 @@
+[
+  {
+    "product_id": "chanel-n5-edp-100ml",
+    "site": "sephora",
+    "url": "https://www.sephora.fr/product/chanel-n5-eau-de-parfum/P123456.html",
+    "brand": "Chanel",
+    "name": "N\u00b05 Eau de Parfum",
+    "category_path": [
+      "fragrance",
+      "edp"
+    ],
+    "price_value": 185.0,
+    "price_currency": "EUR",
+    "size": "100 ml",
+    "size_ml_or_g": 100.0,
+    "availability": "En stock",
+    "rating_avg": 4.7,
+    "rating_count": 1250,
+    "refillable_flag": true,
+    "refill_evidence": [
+      "badge"
+    ],
+    "refill_parent_sku": null,
+    "packaging_notes": "Refillable packaging available",
+    "ingredients_present": true,
+    "ean_gtin": "1234567890123",
+    "image_url": "https://www.sephora.fr/images/chanel-n5.jpg",
+    "breadcrumbs": [
+      "Parfums",
+      "Chanel",
+      "N\u00b05"
+    ],
+    "first_seen_ts": "2025-08-31 19:40:46.465910",
+    "last_seen_ts": "2025-08-31 19:40:46.465916",
+    "source_site": "sephora.fr",
+    "source_url": "https://www.sephora.fr/product/chanel-n5-eau-de-parfum/P123456.html",
+    "scrape_ts": "2025-08-31 19:40:46.465917",
+    "is_luxury": true,
+    "brand_tier": "1",
+    "enrichment": {
+      "open_beauty_facts": {
+        "ingredients": [
+          "alcohol",
+          "parfum",
+          "limonene"
+        ]
+      }
+    }
+  },
+  {
+    "product_id": "dior-miss-dior-edp-50ml",
+    "site": "sephora",
+    "url": "https://www.sephora.fr/product/dior-miss-dior-eau-de-parfum/P789012.html",
+    "brand": "Parfums Christian Dior",
+    "name": "Miss Dior Eau de Parfum",
+    "category_path": [
+      "fragrance",
+      "edp"
+    ],
+    "price_value": 145.0,
+    "price_currency": "EUR",
+    "size": "50 ml",
+    "size_ml_or_g": 50.0,
+    "availability": "En stock",
+    "rating_avg": 4.5,
+    "rating_count": 890,
+    "refillable_flag": false,
+    "refill_evidence": [],
+    "refill_parent_sku": null,
+    "packaging_notes": "Classic glass bottle",
+    "ingredients_present": true,
+    "ean_gtin": "9876543210987",
+    "image_url": "https://www.sephora.fr/images/dior-miss-dior.jpg",
+    "breadcrumbs": [
+      "Parfums",
+      "Dior",
+      "Miss Dior"
+    ],
+    "first_seen_ts": "2025-08-31 19:40:46.465924",
+    "last_seen_ts": "2025-08-31 19:40:46.465926",
+    "source_site": "sephora.fr",
+    "source_url": "https://www.sephora.fr/product/dior-miss-dior-eau-de-parfum/P789012.html",
+    "scrape_ts": "2025-08-31 19:40:46.465926",
+    "is_luxury": true,
+    "brand_tier": "1",
+    "enrichment": null
+  },
+  {
+    "product_id": "guerlain-aqu-allegoria-75ml",
+    "site": "sephora",
+    "url": "https://www.sephora.fr/product/guerlain-aqu-allegoria/P456789.html",
+    "brand": "Guerlain",
+    "name": "Aqua Allegoria Flora Salvaggia",
+    "category_path": [
+      "fragrance",
+      "edt"
+    ],
+    "price_value": 95.0,
+    "price_currency": "EUR",
+    "size": "75 ml",
+    "size_ml_or_g": 75.0,
+    "availability": "En stock",
+    "rating_avg": 4.3,
+    "rating_count": 567,
+    "refillable_flag": true,
+    "refill_evidence": [
+      "facet",
+      "badge"
+    ],
+    "refill_parent_sku": "guerlain-aqu-allegoria-refill",
+    "packaging_notes": "Refillable bottle with separate refill cartridge",
+    "ingredients_present": true,
+    "ean_gtin": "5556667778889",
+    "image_url": "https://www.sephora.fr/images/guerlain-aqu-allegoria.jpg",
+    "breadcrumbs": [
+      "Parfums",
+      "Guerlain",
+      "Aqua Allegoria"
+    ],
+    "first_seen_ts": "2025-08-31 19:40:46.465930",
+    "last_seen_ts": "2025-08-31 19:40:46.465931",
+    "source_site": "sephora.fr",
+    "source_url": "https://www.sephora.fr/product/guerlain-aqu-allegoria/P456789.html",
+    "scrape_ts": "2025-08-31 19:40:46.465932",
+    "is_luxury": true,
+    "brand_tier": "1",
+    "enrichment": {
+      "open_beauty_facts": {
+        "ingredients": [
+          "alcohol",
+          "parfum",
+          "citral",
+          "geraniol"
+        ]
+      }
+    }
+  },
+  {
+    "product_id": "loreal-paris-cream-50ml",
+    "site": "sephora",
+    "url": "https://www.sephora.fr/product/loreal-cream/P111111.html",
+    "brand": "L'Or\u00e9al Paris",
+    "name": "Hydra Genius Moisturizer",
+    "category_path": [
+      "skincare",
+      "moisturizer"
+    ],
+    "price_value": 25.0,
+    "price_currency": "EUR",
+    "size": "50 ml",
+    "size_ml_or_g": 50.0,
+    "availability": "En stock",
+    "rating_avg": 4.2,
+    "rating_count": 1200,
+    "refillable_flag": false,
+    "refill_evidence": [],
+    "refill_parent_sku": null,
+    "packaging_notes": "Standard tube packaging",
+    "ingredients_present": true,
+    "ean_gtin": "1111111111111",
+    "image_url": "https://www.sephora.fr/images/loreal-cream.jpg",
+    "breadcrumbs": [
+      "Skincare",
+      "L'Or\u00e9al",
+      "Hydra Genius"
+    ],
+    "first_seen_ts": "2025-08-31 19:40:46.465936",
+    "last_seen_ts": "2025-08-31 19:40:46.465937",
+    "source_site": "sephora.fr",
+    "source_url": "https://www.sephora.fr/product/loreal-cream/P111111.html",
+    "scrape_ts": "2025-08-31 19:40:46.465938",
+    "is_luxury": false,
+    "brand_tier": null,
+    "enrichment": null
+  },
+  {
+    "product_id": "hermes-terre-edt-100ml",
+    "site": "sephora",
+    "url": "https://www.sephora.fr/product/hermes-terre/P222222.html",
+    "brand": "Herm\u00e8s",
+    "name": "Terre d'Herm\u00e8s Eau de Toilette",
+    "category_path": [
+      "fragrance",
+      "edt"
+    ],
+    "price_value": 120.0,
+    "price_currency": "EUR",
+    "size": "100 ml",
+    "size_ml_or_g": 100.0,
+    "availability": "En stock",
+    "rating_avg": 4.8,
+    "rating_count": 800,
+    "refillable_flag": true,
+    "refill_evidence": [
+      "badge",
+      "text"
+    ],
+    "refill_parent_sku": "hermes-terre-refill",
+    "packaging_notes": "Refillable luxury bottle",
+    "ingredients_present": true,
+    "ean_gtin": "2222222222222",
+    "image_url": "https://www.sephora.fr/images/hermes-terre.jpg",
+    "breadcrumbs": [
+      "Parfums",
+      "Herm\u00e8s",
+      "Terre d'Herm\u00e8s"
+    ],
+    "first_seen_ts": "2025-08-31 19:40:46.465941",
+    "last_seen_ts": "2025-08-31 19:40:46.465942",
+    "source_site": "sephora.fr",
+    "source_url": "https://www.sephora.fr/product/hermes-terre/P222222.html",
+    "scrape_ts": "2025-08-31 19:40:46.465943",
+    "is_luxury": true,
+    "brand_tier": "1",
+    "enrichment": null
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "product_id":"marionnaud_395",
+    "brand":"Brand_15",
+    "name":"Product 395",
+    "price_value":5975.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/395",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_817",
+    "brand":"Brand_17",
+    "name":"Product 817",
+    "price_value":12305.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/817",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_798",
+    "brand":"Brand_18",
+    "name":"Product 798",
+    "price_value":12020.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/798",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"marionnaud_294",
+    "brand":"Brand_14",
+    "name":"Product 294",
+    "price_value":4460.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/294",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_709",
+    "brand":"Brand_9",
+    "name":"Product 709",
+    "price_value":10685.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/709",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_489",
+    "brand":"Brand_9",
+    "name":"Product 489",
+    "price_value":7385.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/489",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_913",
+    "brand":"Brand_13",
+    "name":"Product 913",
+    "price_value":13745.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/913",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_880",
+    "brand":"Brand_0",
+    "name":"Product 880",
+    "price_value":13250.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/880",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"marionnaud_739",
+    "brand":"Brand_19",
+    "name":"Product 739",
+    "price_value":11135.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/739",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_204",
+    "brand":"Brand_4",
+    "name":"Product 204",
+    "price_value":3110.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/204",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_267",
+    "brand":"Brand_7",
+    "name":"Product 267",
+    "price_value":4055.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/267",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_277",
+    "brand":"Brand_17",
+    "name":"Product 277",
+    "price_value":4205.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/277",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"nocibe_81",
+    "brand":"Brand_1",
+    "name":"Product 81",
+    "price_value":1265.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/81",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"nocibe_123",
+    "brand":"Brand_3",
+    "name":"Product 123",
+    "price_value":1895.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/123",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_576",
+    "brand":"Brand_16",
+    "name":"Product 576",
+    "price_value":8690.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/576",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"nocibe_583",
+    "brand":"Brand_3",
+    "name":"Product 583",
+    "price_value":8795.0,
+    "source_url":"https:\/\/nocibe.fr\/product\/583",
+    "scrape_ts":1756727135
+  },
+  {
+    "product_id":"marionnaud_679",
+    "brand":"Brand_19",
+    "name":"Product 679",
+    "price_value":10235.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/679",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"marionnaud_439",
+    "brand":"Brand_19",
+    "name":"Product 439",
+    "price_value":6635.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/439",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"marionnaud_241",
+    "brand":"Brand_1",
+    "name":"Product 241",
+    "price_value":3665.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/241",
+    "scrape_ts":1756727130
+  },
+  {
+    "product_id":"marionnaud_935",
+    "brand":"Brand_15",
+    "name":"Product 935",
+    "price_value":14075.0,
+    "source_url":"https:\/\/marionnaud.fr\/product\/935",
+    "scrape_ts":1756727130
+  }
+]

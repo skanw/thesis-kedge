@@ -1,0 +1,16 @@
+{
+  "generation_timestamp": "2025-08-31T20:21:50.983823",
+  "total_products": 2000,
+  "total_reviews": 53914,
+  "luxury_products": 1765,
+  "refillable_products": 369,
+  "french_reviews": 53914,
+  "unique_brands": 40,
+  "categories": {
+    "fragrance": 660,
+    "skincare": 669,
+    "makeup": 671
+  },
+  "avg_price": 272.94,
+  "avg_rating": 4.24
+}

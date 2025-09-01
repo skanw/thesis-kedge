@@ -1,0 +1,43 @@
+{
+  "mappings": {
+    "fragrance": {
+      "edp": ["eau de parfum", "parfum", "edp"],
+      "edt": ["eau de toilette", "edt"],
+      "cologne": ["cologne", "eau de cologne"],
+      "body_mist": ["body mist", "brume corporelle"]
+    },
+    "skincare": {
+      "moisturizer": ["moisturizer", "hydratant", "crème hydratante", "nourishing cream"],
+      "serum": ["serum", "sérum"],
+      "cleanser": ["cleanser", "nettoyant", "gel nettoyant"],
+      "toner": ["toner", "tonique"],
+      "mask": ["mask", "masque"],
+      "eye_cream": ["eye cream", "crème contour des yeux"],
+      "sunscreen": ["sunscreen", "écran solaire", "protection solaire"]
+    },
+    "makeup": {
+      "foundation": ["foundation", "fond de teint"],
+      "concealer": ["concealer", "anti-cernes"],
+      "powder": ["powder", "poudre"],
+      "blush": ["blush", "fard à joues"],
+      "bronzer": ["bronzer", "bronzant"],
+      "highlighter": ["highlighter", "illuminateur"],
+      "eyeshadow": ["eyeshadow", "fard à paupières"],
+      "eyeliner": ["eyeliner", "eye-liner"],
+      "mascara": ["mascara"],
+      "lipstick": ["lipstick", "rouge à lèvres"],
+      "lip_gloss": ["lip gloss", "brillant à lèvres"],
+      "lip_liner": ["lip liner", "crayon à lèvres"]
+    },
+    "tools": {
+      "brushes": ["brushes", "pinceaux"],
+      "sponges": ["sponges", "éponges"],
+      "mirrors": ["mirrors", "miroirs"]
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2024-01-01",
+    "description": "Category normalization mapping for French beauty sites"
+  }
+}
